@@ -7,5 +7,5 @@ bcrypt
 markdown
 flask-markdown
 gunicorn
-mysql-connector==2.1.6
+mysql-connector
 Flask-Testing
